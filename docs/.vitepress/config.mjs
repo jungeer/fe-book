@@ -25,7 +25,7 @@ export default defineConfig({
     socialLinks: [
       { icon: "github", link: "https://github.com/jungeer/fe-book" },
     ],
-
-    base: "/fe-book/",
   },
+
+  base: "/fe-book/",
 });
